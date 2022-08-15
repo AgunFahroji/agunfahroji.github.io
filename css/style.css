@@ -48,8 +48,9 @@
                     margin: 20px;
                 }
                 
-                .srtf {
+                .srtf img {
                     max-height: 200px;
+                    max-width: 300px;
                 }
                 
                 .contact img {
