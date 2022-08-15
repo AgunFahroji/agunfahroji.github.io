@@ -64,8 +64,9 @@
                     color: #000;
                 }
                 
-                .card-body h5 {
+                .card-body p {
                     text-align: center;
+                    font-size: 16px;
                 }
                 
                 .card {
